@@ -1,4 +1,8 @@
 Your first branch
+<<<<<<< HEAD
 
 
 it's main branch
+=======
+test 2nd branch
+>>>>>>> Updatebranch
