@@ -1,8 +1,8 @@
-Name: Michelle Sun
-Student ID: 000507868
+Name: 
+Student ID: 
 Program: AIDA
 Cell:?
 
 ------
 test
-This is a test repository for yarmchellca's file.
+This is a test repository
