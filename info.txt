@@ -1,7 +1,7 @@
-Name: M Sun
-Student ID: 000507868
+Name:
+Student ID:
 Program: AI&DA
-Address: Regina
+Address: 
 add a line
 Is there any change?
 new branch change
